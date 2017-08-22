@@ -29,6 +29,8 @@ Repos for the components can be found at:
 
 ## Deployments
 
+Please feel free to request access to the Heroku apps and Logentries add-on below.
+
 These components are deployed to Heroku as follows:
 
  * https://sleuth-a.herokuapp.com
@@ -39,6 +41,8 @@ These components are deployed to Heroku as follows:
 ## Log aggregation
 
 Logs from these four components on Heroku are aggregated to Logentries, enabling messages relating to a trace to be found as a group.
+
+Logentries is configured as a Heroku add-on to the sleuth-a app, with each of the others having a "drain" configured to send logs to the same Logentries instance.
 
 It's also possible to tail the individual Heroku logs and watch the interaction:
 
