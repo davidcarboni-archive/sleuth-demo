@@ -33,10 +33,10 @@ Please feel free to request access to the Heroku apps and Logentries add-on belo
 
 These components are deployed to Heroku as follows:
 
- * https://sleuth-a.herokuapp.com
- * https://sleuth-b.herokuapp.com
- * https://sleuth-c.herokuapp.com
- * https://sleuth-d.herokuapp.com
+ * http://sleuth-a.ros.9ov.uk
+ * http://sleuth-b.ros.9ov.uk
+ * http://sleuth-c.ros.9ov.uk
+ * http://sleuth-d.ros.9ov.uk
 
 ## Log aggregation
 
