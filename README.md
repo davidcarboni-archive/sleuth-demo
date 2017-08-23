@@ -22,10 +22,10 @@ The aim is to demonstrate Spring and Python 2/3 working together via B3 headers,
 
 Repos for the components can be found at:
 
- * https://github.com/davidcarboni/sleuth-a
- * https://github.com/davidcarboni/sleuth-b
- * https://github.com/davidcarboni/sleuth-c
- * https://github.com/davidcarboni/sleuth-d
+ * https://github.com/rosgovuk/sleuth-a
+ * https://github.com/rosgovuk/sleuth-b
+ * https://github.com/rosgovuk/sleuth-c
+ * https://github.com/rosgovuk/sleuth-d
 
 ## Deployments
 
