@@ -42,7 +42,7 @@ These components are deployed to Heroku as follows:
 
 Logs from these four components on Heroku are aggregated to Logentries, enabling messages relating to a trace to be found as a group.
 
-Logentries is configured as a Heroku add-on to the sleuth-a app, with each of the others having a "drain" configured to send logs to the same Logentries instance.
+Logentries is configured as a Heroku add-on to the [sleuth-a](https://dashboard.heroku.com/apps/sleuth-a) app, with each of the others having a "drain" configured to send logs to the same Logentries instance.
 
 It's also possible to tail the individual Heroku logs and watch the interaction:
 
